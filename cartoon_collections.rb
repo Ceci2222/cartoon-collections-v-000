@@ -22,4 +22,5 @@ def find_the_cheese(cheeses)
   if cheeses.include?(cheese_types)
      cheeses.find
   else
+  end
 end
