@@ -12,7 +12,8 @@ def summon_captain_planet(calls)
 end
 
 def long_planeteer_calls(long_calls)
-  long_calls.any?()
+  long_calls.any? do |word|
+    
   # Your code here
 end
 
